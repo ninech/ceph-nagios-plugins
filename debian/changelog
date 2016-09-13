@@ -1,3 +1,9 @@
+nagios-plugins-ceph (1.5.2-1) unstable; urgency=medium
+
+  * Dependencies edited
+
+ -- Martin Wittwer <mawit@pcmawit-new>  Tue, 13 Sep 2016 12:51:17 +0200
+
 nagios-plugins-ceph (1.5.1-1) unstable; urgency=medium
 
   * Added whitelist regexp filter for good/unhandled ceph health warnings
